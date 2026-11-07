@@ -2,6 +2,7 @@
 name = "add-to-path"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
 
 # The DLL is the Windows 11 menu command. The exe does the work for both menus.
 [lib]
